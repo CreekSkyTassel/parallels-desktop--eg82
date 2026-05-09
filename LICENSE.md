@@ -1,4 +1,4 @@
-
+rare Plugin for Parallels Desktop for macOS - network-configuration and automated-backups offers the most advanced Parallels Desktop for macOS plugin, with network-configuration
 
 
 
